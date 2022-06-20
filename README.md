@@ -8,7 +8,7 @@
 
 ---
 
-I have over 3 years of experience working as a data analysr.
+I have over 3 years of experience working as a data analyst. 
 My passion lies in solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders.
 I always look forward to exceeding expectations and I am effective both working as an individual and as part of a team.
 
@@ -22,7 +22,9 @@ If you ever want to bounce ideas off of me or even just have a chat, please feel
 
 ##  :sparkles: Skills  
 
-- *CI/CD*: GitHub Actions, Azure Pipelines
-- *Databases*: MongoDB, MySQL, PostgreSQL
-- *Misc*: Git
-- *Languages*: SQL, Python, Java
+- *Analysis*: MS Excel, MS Visio, Tableau, Power BI
+- *Database*: SQL, MS SQL Server, Oracle, MS Access, SAS, SSIS, SSRS
+- *Data Analysis Libraries*: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn 
+- *Programming*: Python, SQL, Java, Hive
+- *Other Skills*: Jupyter notebook, MS Excel(Vlookup, Pivot, VBA, Macros), Git
+- *Tools*: HP Service Manager Ticketing Tool, Microsoft Dynamics AXAPTA 2012, Airwatch
