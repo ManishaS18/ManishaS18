@@ -1,4 +1,4 @@
-# Hi, I'm [Manisha]! 👋
+# Hi, I'm Manisha! 👋
 
 >  💻  Data Analyst | Data Scientist | Data Engineer
 
