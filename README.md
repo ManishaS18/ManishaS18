@@ -11,10 +11,10 @@
 Having 3 years of experience working as a data analyst in the industry, have taught me to be a quick thinker, solve challenging problems, and communicate with Business stakeholders.
 I always look forward to deliver the expectations set and I am capable of being effective team player and handling things on my own too. 
 
-In my spare time, I like to travel 🚗 , listen to music :headphones: and watch movies/TV Series :tv:.
+In my spare time, I like to travel 🚗w, listen to music :headphones: and watch movies/TV Series :tv:.
 
 I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
-If you ever want to bounce ideas off of me or even just have a chat, please feel free to reach out. 😄
+If you ever want to bounce ideas off of me or even just have a chat, please feel free to reach out 😃
 
 ## ⚡ Stats
 ![Manisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishaS18&hide=["issues"]&show_icons=true)
