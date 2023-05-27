@@ -8,7 +8,7 @@
 
 ---
 
-Having 3 years of experience working as a data analyst in the industry, have taught me to be a quick thinker, solve challenging problems, and communicate with Business stakeholders.
+Having 4+ years of experience working as a data analyst in the industry, have taught me to be a quick thinker, solve challenging problems, and communicate with Business stakeholders.
 I always look forward to deliver the expectations set and I am capable of being effective team player and handling things on my own too. 
 
 In my spare time, I like to travel 🚗w, listen to music :headphones: and watch movies/TV Series :tv:.
